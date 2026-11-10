@@ -4,6 +4,8 @@ Du möchtest ein eigenes Betriebssystem schreiben oder verstehen, was unter der 
 
 Im [Wiki](https://github.com/lowlevel-eu/wiki/wiki) findest du Wissen vom ersten Bootsektor bis zum Betriebssystemdesign. Du kannst dort weiter an Artikeln arbeiten und sie verbessern. Fragen, Ideen und Austausch haben jetzt in den [Discussions des Wiki-Projekts](https://github.com/lowlevel-eu/wiki/discussions) ihren Platz – sie ersetzen das bisherige Forum. Die alten Beiträge bleiben im [schreibgeschützten Forum-Archiv](https://lowlevel-eu.github.io/forum/index.html) zum Nachlesen erhalten und das [alte Wiki ist ebenfalls archiviert](https://lowlevel-eu.github.io/wiki/pages/1712/index.html).
 
+Die Community ist auch im [IRC](https://github.com/lowlevel-eu/wiki/wiki/IRC) aktiv (`#lost` auf `irc.euirc.net`).
+
 Auch der Code ist mit umgezogen:
 
 - [týndur](https://github.com/lowlevel-eu/tyndur) – das Community-Betriebssystem von Lowlevel.
