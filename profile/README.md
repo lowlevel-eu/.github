@@ -2,7 +2,7 @@
 
 Du möchtest ein eigenes Betriebssystem schreiben oder verstehen, was unter der Haube passiert? Dann bist du hier genau richtig. Hier auf GitHub führen wir die Lowlevel-Community nach dem Umzug von lowlevel.eu weiter – mit unserem Wiki, euren Fragen und den gemeinsamen Projekten.
 
-Im [Wiki](https://github.com/lowlevel-eu/wiki/wiki) findest du Wissen vom ersten Bootsektor bis zum Betriebssystemdesign. Du kannst dort weiter an Artikeln arbeiten und sie verbessern. Fragen, Ideen und Austausch haben jetzt in den [Discussions des Wiki-Projekts](https://github.com/lowlevel-eu/wiki/discussions) ihren Platz – sie ersetzen das bisherige Forum. Die alten Beiträge bleiben im [schreibgeschützten Forum-Archiv](https://lowlevel-eu.github.io/forum/index.html) zum Nachlesen erhalten.
+Im [Wiki](https://github.com/lowlevel-eu/wiki/wiki) findest du Wissen vom ersten Bootsektor bis zum Betriebssystemdesign. Du kannst dort weiter an Artikeln arbeiten und sie verbessern. Fragen, Ideen und Austausch haben jetzt in den [Discussions des Wiki-Projekts](https://github.com/lowlevel-eu/wiki/discussions) ihren Platz – sie ersetzen das bisherige Forum. Die alten Beiträge bleiben im [schreibgeschützten Forum-Archiv](https://lowlevel-eu.github.io/forum/index.html) zum Nachlesen erhalten und das [alte Wiki ist ebenfalls archiviert](https://lowlevel-eu.github.io/wiki/pages/1712/index.html).
 
 Auch der Code ist mit umgezogen:
 
